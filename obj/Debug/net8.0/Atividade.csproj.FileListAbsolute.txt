@@ -1,0 +1,15 @@
+/var/www/html/htdocs/Atividade/bin/Debug/net8.0/Atividade
+/var/www/html/htdocs/Atividade/bin/Debug/net8.0/Atividade.deps.json
+/var/www/html/htdocs/Atividade/bin/Debug/net8.0/Atividade.runtimeconfig.json
+/var/www/html/htdocs/Atividade/bin/Debug/net8.0/Atividade.dll
+/var/www/html/htdocs/Atividade/bin/Debug/net8.0/Atividade.pdb
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.AssemblyInfoInputs.cache
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.AssemblyInfo.cs
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.csproj.CoreCompileInputs.cache
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.sourcelink.json
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.dll
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/refint/Atividade.dll
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.pdb
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/Atividade.genruntimeconfig.cache
+/var/www/html/htdocs/Atividade/obj/Debug/net8.0/ref/Atividade.dll
